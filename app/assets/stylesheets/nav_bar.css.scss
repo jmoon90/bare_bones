@@ -1,0 +1,13 @@
+
+.header nav li {
+  display: inline-block;
+  float: right;
+}
+
+.header nav ul {
+  display: inherit;
+}
+
+.header  {
+  @include span-columns(6);
+}
