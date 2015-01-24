@@ -1,0 +1,9 @@
+/*
+ *= require bootstrap.min
+ *= require_self
+ *= require_tree .
+*/
+
+#myCarousel {
+  margin-bottom: 25px;
+}
